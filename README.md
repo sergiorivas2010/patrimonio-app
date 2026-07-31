@@ -1,3 +1,9 @@
+# Patrimonio v1.1.2 — Corrección de conexión IA
+
+- Corrige el lector de eventos SSE del chat: ahora interpreta correctamente los saltos de línea enviados por Cloudflare.
+- No cambia saldos, movimientos, subcuentas ni objetivos.
+- Mantiene el mismo Worker y la misma URL.
+
 # Patrimonio v1.1.1 — Correcciones de movimientos
 
 - La X de ingresos, gastos y paga cierra correctamente el formulario.

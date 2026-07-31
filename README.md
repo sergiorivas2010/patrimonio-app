@@ -1,3 +1,10 @@
+# Patrimonio v1.1.1 — Correcciones de movimientos
+
+- La X de ingresos, gastos y paga cierra correctamente el formulario.
+- Los ingresos y gastos pueden registrarse directamente en Disponible o en cualquier subcuenta.
+- En una subcuenta se elige además si el dinero pertenece a Revolut o a efectivo.
+- El historial y el CSV muestran la subcuenta utilizada.
+
 # Patrimonio v1.1.0 — Asesor IA conectado
 
 - Chat integrado con Cloudflare Workers AI.

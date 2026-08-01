@@ -1,3 +1,13 @@
+# Patrimonio v1.2.1 — Interfaz y clasificación de fondos
+
+- Añade una gráfica de gastos de los últimos siete días.
+- Da más protagonismo al Asesor IA en la pantalla principal.
+- Define claramente Revolut libre, efectivo libre, Cartera física y subcuentas de ahorro.
+- La Cartera se considera dinero de uso diario; el resto de subcuentas se consideran ahorro apartado.
+- En Ingresos, Gastos y Paga solo aparecen Revolut libre, Efectivo libre y Cartera física.
+- Dejan de aparecer subcuentas de ahorro o referencias antiguas en el selector de movimientos.
+- Mantiene la clave local `patrimonio_nuevo_v1` y todos los datos actuales.
+
 # Patrimonio v1.2.0 — Memoria y Motor de Decisiones
 
 - Reglas financieras personales editables.

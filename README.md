@@ -1,3 +1,13 @@
+# Patrimonio v1.2.0 — Memoria y Motor de Decisiones
+
+- Reglas financieras personales editables.
+- Memoria local persistente del asesor.
+- Conversación conservada entre sesiones.
+- Motor de cálculos: reserva mínima, gastos, tasa de ahorro, impacto de compras y proyección de objetivos.
+- Modo Decisión con opciones conservadora, equilibrada y flexible.
+- Diario local de decisiones.
+- Mantiene la clave de datos `patrimonio_nuevo_v1`.
+
 # Patrimonio v1.1.2 — Corrección de conexión IA
 
 - Corrige el lector de eventos SSE del chat: ahora interpreta correctamente los saltos de línea enviados por Cloudflare.
